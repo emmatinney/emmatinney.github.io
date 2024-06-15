@@ -12,4 +12,4 @@ Devloping a novel interface for completing the dTMT in the MRI scanner and inves
 Understanding how brain structure and function interact after a TBI
 
 ## Aerobic Fitness and Brain Health in Older Adults
-Understanding the relationship between aerobic fitness on brain health in older adults 
+Understanding the relationship between aerobic fitness & brain health in older adults using a fixel based analysis
