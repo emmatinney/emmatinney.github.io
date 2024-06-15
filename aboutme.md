@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###My Research
+I am a PhD student at Northestern University in the Center for Cognitive and Brain Health since September of 2021. I have received my Master of Science degree as of March 2023, advancing to doctoral candidacy. As a PhD candidate, my current research focuses on the bidirectional relationship between lifestyle factors, including sleep and exercise, and brain health in traumatic brain injury (TBI) and aging. My involvement in neuroscience research since 2019 has been instrumental in shaping my expertise in this domain. The focus of my doctoral thesis is to understand how lifestyle behaviors are affected in those suffering from a TBI, and I have secured a one year fellowship to fund my research project. I have taken a leadership role in my lab serving as the lead graduate student in a clinical trial of exercise as an intervention in TBI, facilitating internal and external collaborations at both research and clinical sites, securing open access datasets to use within the lab, and serving as a graduate student mentor for numerous projects involving undergraduate and other graduate students. 
+###My History
+My career has been largely shaped by my team of mentors. Under the guidance of Dr. Curtis Johnson, I began my career in research at University of Delaware as an undergraduate research assistant collecting and analyzing data for an NIH funded randomized control trial of exercise in mild cognitive impairment. Upon graduation, I continued to finish up several projects as I started my graduate studies with Dr. Charles Hillman. When starting my graduate studies, I began by collecting and analyzing data on an NIH funded randomized control trial of exercise in older adults. Collaborating with both my undergraduate and graduate mentor was the first insight into the importance of developing a team of mentors to strengthen as an interdisciplinary researcher. Upon beginning my graduate studies, I sought out the guidance of Dr. Timothy Morris to collaborate on TBI research. Now, working under a dual-mentorship team, I have a unique opportunity to grow as an interdisciplinary researcher while researching the bidirectional relationship between lifestyle factors and brain health in various populations.  
+###My Service
+In addition to my focus on research, I take my commitment to leadership, mentorship, and diversity within and outside the scientific community very seriously. Since 2021, I have been a member of the Application Statement Feedback Program Core Team, facilitating and overseeing an outreach program providing graduate school statement feedback to individuals from marginalized communities apply to psychology PhD programs. Additionally, I am a member of the Psychology Department Graduate Student Association, serving as a member of the Diversity, Equity, and Inclusion Committee. Furthermore, I serve as a graduate student liaison for the Psychologists for Equity and Inclusion Association, where I work with undergraduates and faculty members to create an inclusive environment within and beyond the Department. As a member of these committees, I have led several initiatives to further our engagement in diverse topics, such as securing grant funding to bring in speakers to give talks and lead workshops on navigating diversity, equity, and inclusion in academia, research, and beyond. Beyond this, I serve as a one-on-one mentor to several undergraduate students interested in psychology related fields through Northeastern’s Graduate Student Mentorship Program and NextGen Psych Scholars, Providing mentorship and guidance to undergraduate students in psychology related fields. In addition to these programs, I have mentored and trained many undergraduate students within my lab, served as a teaching assistant in two classes, and taken an active role in the recruitment of new graduate and undergraduate students in my lab. It is my long-term career goal to become a faculty member at a R1 university where I will be able to continue pursuing my combined passions for mentorship, teaching, and TBI research. 
+###Life outside of the lab
+Originally born in Chicago, I grew up moving around a lot. Bouncing all over the country, changing schools became a lot to handle so my family homeschooled my siblings and myself until I reached high school and we settled down in Naperville, IL. I swam competeively all thoughout high school and ended up committing to swim colligiately at University of Delaware. I was a distance swimmer, and after college I fell into distance running. I am now training for my second marathon! Outside of running all around Boston, I enjoy trying new restaurants, going to the beach, traveling, and hiking.
