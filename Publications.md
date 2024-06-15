@@ -8,7 +8,7 @@
 **Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. (under review) _Neurotrauma Reports_
 
 [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
-Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F. Kramer, Timothy P Morris. (under review) _Gerontology_
+Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_
 
 [Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury]()
 **Emma M Tinney**, Meishan Ai, Goretti Espana-Irla, Charles H Hillman, Timothy P Morris. (under review) _Brain and Behavior_
