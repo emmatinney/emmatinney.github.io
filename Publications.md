@@ -2,7 +2,7 @@
 *Indicates student trainee
 ## 2024
 [Understanding Cognitive Aging through White Matter: A Fixel-Based Analysis]()
-**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, LAuren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman, (under review) _Human Brain Mapping_
+**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, LAuren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. (under review) _Human Brain Mapping_
 
 [Choroid Plexus Volume is not Affected by Mild Traumatic Brain Injury]()
 **Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. (under review) _Neurotrauma Reports_
