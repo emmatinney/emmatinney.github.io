@@ -14,7 +14,7 @@ Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F 
 **Emma M Tinney**, Meishan Ai, Goretti Espana-Irla, Charles H Hillman, Timothy P Morris. (under review) _Brain and Behavior_
 
 [Axonal Injury, Sleep Disturbances, and Memory following Traumatic Brain Injury](https://www.medrxiv.org/content/10.1101/2024.03.05.24303449v1)
-**Emma M Tinney**, Goretti Espana-Irla, Aaron EL Warren, Lauren N Whitehurst, Alexandra M Stillman, Charles H Hillman, Timothy P Morris. (under review) _Annals of Clinical and Translational Neurology_
+**Emma M Tinney**, Goretti Espana-Irla, Aaron EL Warren, Lauren N Whitehurst, Alexandra M Stillman, Charles H Hillman, Timothy P Morris. (accepted) _Annals of Clinical and Translational Neurology_
 
 [Resting-state functional connectivity change in frontoparietal and default mode networks after acute exercise in youth](https://content.iospress.com/articles/brain-plasticity/bpl240003?resultNumber=0&totalResults=119&start=0&q=Resting-State+Functional+Connectivity+Change+in+Frontoparietal+and+Default+Mode+Networks+After+Acute+Exercise+in+Youth&resultsPageSize=10&rows=10)
 Trevor L Cline, Francesca Morfini, **Emma M Tinney**, Ethan Makarewycz, Katherine Lloyd, Valur Olafsson, Clemens CC Bauer, Arthur F Kramer, Lauren B Raine, Laurel J Gabard-Durnam, Susan Whitfield-Gabrieli, Charles H Hillman. _Brain Plasticity_ 
