@@ -5,13 +5,13 @@
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. (under review) 
 
 [Choroid Plexus Volume is not Affected by Mild Traumatic Brain Injury]()
-**Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. (under review) 
+**Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. (accepted) _Neurotrauma Reports_
 
 <!-- [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
 Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
 
 **Emma M Tinney**, Meishan Ai, Goretti Espana-Irla, Charles H Hillman, Timothy P Morris.
-[Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury] (in revision) _Brain and Behavior_
+[Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury] (accepted) _Brain and Behavior_
 
 **Emma M Tinney**, Goretti Espana-Irla, Aaron EL Warren, Lauren N Whitehurst, Alexandra M Stillman, Charles H Hillman, Timothy P Morris. 
 [Axonal Injury, Sleep Disturbances, and Memory following Traumatic Brain Injury](https://onlinelibrary.wiley.com/doi/10.1002/acn3.52145) _Annals of Clinical and Translational Neurology_
