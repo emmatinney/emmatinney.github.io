@@ -10,7 +10,7 @@
 Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
 
 **Emma M Tinney**, Meishan Ai, Goretti Espana-Irla, Charles H Hillman, Timothy P Morris.
-[Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury]() _Brain and Behavior_
+[Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury](https://onlinelibrary.wiley.com/doi/10.1002/brb3.70022) _Brain and Behavior_
 
 **Emma M Tinney**, Goretti Espana-Irla, Aaron EL Warren, Lauren N Whitehurst, Alexandra M Stillman, Charles H Hillman, Timothy P Morris. 
 [Axonal Injury, Sleep Disturbances, and Memory following Traumatic Brain Injury](https://onlinelibrary.wiley.com/doi/10.1002/acn3.52145) _Annals of Clinical and Translational Neurology_
