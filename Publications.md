@@ -4,7 +4,7 @@
 [Understanding Cognitive Aging through White Matter: A Fixel-Based Analysis]()
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. (under review) 
 
-**Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. [Choroid Plexus Volume is Only Increased Early After Traumatic Brain Injury and Only in Those with Positive Head CT Scans]() _Neurotrauma Reports_
+**Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. [Choroid Plexus Volume is Only Increased Early After Traumatic Brain Injury and Only in Those with Positive Head CT Scans](https://www.liebertpub.com/doi/10.1089/neur.2024.0093) _Neurotrauma Reports_
 
 <!-- [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
 Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
