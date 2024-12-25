@@ -1,8 +1,8 @@
 # Publications
 *Indicates student trainee
 ## 2024
-[Understanding Cognitive Aging through White Matter: A Fixel-Based Analysis]()
-**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. (under review) 
+
+**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. [Understanding Cognitive Aging through White Matter: A Fixel-Based Analysis](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70121) _Human Brain Mapping_
 
 **Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. [Choroid Plexus Volume is Only Increased Early After Traumatic Brain Injury and Only in Those with Positive Head CT Scans](https://www.liebertpub.com/doi/10.1089/neur.2024.0093) _Neurotrauma Reports_
 
