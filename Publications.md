@@ -1,13 +1,14 @@
 # Publications
 *Indicates student trainee
+## 2025
+<!-- [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
+Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
+
 ## 2024
 
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Timothy P. Morris, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. [Understanding Cognitive Aging through White Matter: A Fixel-Based Analysis](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70121) _Human Brain Mapping_
 
 **Emma M Tinney**, Ryan Luke Sodemann\*, Goretti Espana-Irla, Madeline Perko\*, Charles H Hillman, Timothy P Morris. [Choroid Plexus Volume is Only Increased Early After Traumatic Brain Injury and Only in Those with Positive Head CT Scans](https://www.liebertpub.com/doi/10.1089/neur.2024.0093) _Neurotrauma Reports_
-
-<!-- [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
-Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
 
 **Emma M Tinney**, Meishan Ai, Goretti Espana-Irla, Charles H Hillman, Timothy P Morris.
 [Physical Activity and Frontoparietal Network Connectivity in Traumatic Brain Injury](https://onlinelibrary.wiley.com/doi/10.1002/brb3.70022) _Brain and Behavior_
