@@ -23,7 +23,6 @@ author: Emma Tinney
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - NU DEI Resources: "https://www.psychdeineu.com/"
     - Center for Cognitive and Brain Health: "https://cbh.northeastern.edu/"
   Publications: "Publications"
   Ongoing Projects: "currentprojects"
