@@ -1,8 +1,8 @@
 # Publications
 *Indicates student trainee
 ## 2025
-<!-- [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement]()
-Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. (under review) _Gerontology_ -->
+Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. 
+[Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaf075/8115489) _Gerontology_ 
 
 ## 2024
 
