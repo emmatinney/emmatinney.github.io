@@ -1,11 +1,11 @@
 # Publications
 *Indicates student trainee
 ## 2025
-#**Emma M Tinney**, Khoshna Ande, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
-#[The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ 
+<!--**Emma M Tinney**, Khoshna Ande, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
+[The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ 
 
-#**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward #McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
-#[White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults]() _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
+**Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
+[White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults]() _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ -->
 
 Goretti Espana-Irla, **Emma M Tinney**, Meishan Ai, Mark Nwakamma, Timothy P Morris. 
 [Functional connectivity patterns following mild traumatic brain injury and the association with longitudinal cognitive function]() _Human Brain Mapping_ 
