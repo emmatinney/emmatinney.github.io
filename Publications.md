@@ -8,7 +8,7 @@
 [White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults]() _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
 
 Goretti Espana-Irla, **Emma M Tinney**, Meishan Ai, Mark Nwakamma, Timothy P Morris. 
-[Functional connectivity patterns following mild traumatic brain injury and the association with longitudinal cognitive function]() _Human Brain Mapping_ 
+[Functional connectivity patterns following mild traumatic brain injury and the association with longitudinal cognitive function](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70237) _Human Brain Mapping_ 
 
 Meishan Ai, **Emma M Tinney**, Goretti Espana-Irla, Charles H Hillman, Arthur F Kramer, Timothy P Morris. 
 [Brain resting-state functional connectivity mediates the age-associated decline in physical activity engagement](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaf075/8115489) _Gerontology_ 
