@@ -24,6 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Center for Cognitive and Brain Health: "https://cbh.northeastern.edu/"
+    - Imaging Resources: "imaging"
   Publications: "Publications"
   Ongoing Projects: "currentprojects"
   CV: "/assets/img/Tinney_CV.pdf"
