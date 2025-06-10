@@ -1,6 +1,6 @@
 # Imaging Resources
 
-Here are some of the very useful imaging pipelines I have used and trained others on how to use.
+Here are some of the very useful imaging pipelines I have used and trained others on how to use. Please reach out with questions on any of the following toolboxes.
 
 ## Diffusion Weighted Imaging
 
