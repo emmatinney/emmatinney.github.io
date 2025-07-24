@@ -5,7 +5,7 @@
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
 
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, George Grove, John M. Jakicic, Audrey M. Collins, Kelsey R. Sewell, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
-[White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults]() _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
+[White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70125) _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
 
 Goretti Espana-Irla, **Emma M Tinney**, Meishan Ai, Mark Nwakamma, Timothy P Morris. 
 [Functional connectivity patterns following mild traumatic brain injury and the association with longitudinal cognitive function](https://onlinelibrary.wiley.com/doi/10.1002/hbm.70237) _Human Brain Mapping_ 
