@@ -27,6 +27,7 @@ navbar-links:
     - Imaging Resources: "imaging"
   Publications: "Publications"
   Ongoing Projects: "currentprojects"
+  News: "news"
   CV: "/assets/img/Tinney_CV.pdf"
 
 ################
