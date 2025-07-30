@@ -10,7 +10,7 @@ Here are some of the very useful imaging pipelines I have used and trained other
 
 [FSL Tract Based Spatistics](https://ftp.nmr.mgh.harvard.edu/pub/dist/freesurfer/tutorial_packages/centos6/fsl_507/doc/wiki/TBSS(2f)UserGuide.html) 
 
-[Diffusing Uncertainty of Diffusion Weighted Imaging](/assets/img/Tinney_ECSS_AIG_2025.pptx)
+[Diffusing Uncertainty of Diffusion Weighted Imaging](/assets/img/Diffusing_Uncertainty_of_Diffusion_Weighted_Imaging.pptx)
 
 ## Functional Connectivity
 
