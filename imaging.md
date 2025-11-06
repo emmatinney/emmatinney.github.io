@@ -28,3 +28,5 @@ Here are some of the very useful imaging pipelines I have used and trained other
 
 [Explore ASL](https://sites.google.com/view/exploreasl) 
 
+# Other Resources
+[Intimate Partner Violence Training](https://vetoviolence.cdc.gov/apps/tbi-ipv-hidden-harms/)
