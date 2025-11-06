@@ -23,8 +23,8 @@ author: Emma Tinney
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Center for Cognitive and Brain Health: "https://cbh.northeastern.edu/"
-    - Imaging Resources: "imaging"
+    - Institute for Cognitive and Brain Health: "https://cbh.northeastern.edu/"
+    - Resources: "imaging"
   Publications: "Publications"
   Ongoing Projects: "currentprojects"
   News: "news"
