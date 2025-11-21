@@ -18,4 +18,4 @@ In addition to my focus on research, I take my commitment to leadership and ment
 
 ## Life outside of the lab
 
-Originally born in Chicago, I grew up moving around a lot. I swam competeively all thoughout high school and ended up committing to swim colligiately at University of Delaware. I was a distance swimmer, and after college I fell into distance running. I am now training for my second marathon! Outside of running all around Boston, I enjoy trying new restaurants, going to the beach, traveling, and hiking.
+Originally born in Chicago, I grew up moving around a lot. I swam competitively all thoughout high school and ended up committing to swim colligiately at University of Delaware. I was a distance swimmer, and after college I fell into distance running. I am now training for my second marathon! Outside of running all around Boston, I enjoy trying new restaurants, going to the beach, traveling, and hiking.
