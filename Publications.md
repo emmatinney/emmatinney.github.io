@@ -3,6 +3,8 @@
 ## 2025
 <!--**Emma M Tinney**, Khoshna Ande, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
+**Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
+[The feasibility and efficacy of a virtual, symptom-guided aerobic exercise intervention to improve cognition in mild traumatic brain injury: A single-blind pilot randomized control trial with an active comparator group](https://www.medrxiv.org/content/10.64898/2025.12.11.25342088v1) _medRxiv_
 
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, George Grove, John M. Jakicic, Audrey M. Collins, Kelsey R. Sewell, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
 [White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70125) _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
