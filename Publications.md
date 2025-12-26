@@ -5,6 +5,7 @@
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
 Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
 [Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery] (https://sportrxiv.org/index.php/server/preprint/view/684/version/866) _SportRxiv_
+
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
 [The feasibility and efficacy of a virtual, symptom-guided aerobic exercise intervention to improve cognition in mild traumatic brain injury: A single-blind pilot randomized control trial with an active comparator group](https://www.medrxiv.org/content/10.64898/2025.12.11.25342088v1) _medRxiv_
 
