@@ -3,6 +3,7 @@
 ## 2026
 <!--**Emma M Tinney**, Khoshna Ande\*, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
+**Emma M Tinney**, Mark Nwakamma, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. (2026) [The Exercise and Concussion Health Study (TECHS): Pilot and Feasibility Protocol]() _Contemporary Clinical Trials Communications_
 
 ## 2025
 Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
