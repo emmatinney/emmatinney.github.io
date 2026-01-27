@@ -6,7 +6,7 @@
 Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
 [Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _BioRxiv_
 
-**Emma M Tinney**, Mark Nwakamma, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. (2026) [The Exercise and Concussion Health Study (TECHS): Pilot and Feasibility Protocol]() _Contemporary Clinical Trials Communications_
+**Emma M Tinney**, Mark Nwakamma, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. [The Exercise and Concussion Health Study (TECHS): Pilot and Feasibility Protocol]() _Contemporary Clinical Trials Communications_
 
 ## 2025
 Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
