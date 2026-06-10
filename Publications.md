@@ -8,7 +8,7 @@ Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena
 
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
 [Aerobic exercise improves executive function after traumatic brain injury via changes to the functional connectivity of the anterior cingulate cortex
-](https://www.medrxiv.org/content/10.64898/2026.02.27.26347275v1) _Journal of Head Trauma Rehabilitation_
+](https://journals.lww.com/headtraumarehab/fulltext/9900/the_feasibility_and_efficacy_of_a_virtual,.377.aspx) _Journal of Head Trauma Rehabilitation_
 
 Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
 [Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _BioRxiv_
