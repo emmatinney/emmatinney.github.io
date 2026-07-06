@@ -8,7 +8,7 @@ Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena
 
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
 [Aerobic exercise improves executive function after traumatic brain injury via changes to the functional connectivity of the anterior cingulate cortex
-]() __
+]() _medRxiv_
 
 Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
 [Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _BioRxiv_
@@ -22,8 +22,6 @@ Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Steph
 Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
 [Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://sportrxiv.org/index.php/server/preprint/view/684/version/866) _SportRxiv_
 
-**Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
-[The feasibility and efficacy of a virtual, symptom-guided aerobic exercise intervention to improve cognition in mild traumatic brain injury: A single-blind pilot randomized control trial with an active comparator group](https://www.medrxiv.org/content/10.64898/2025.12.11.25342088v2) _medRxiv_
 
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, George Grove, John M. Jakicic, Audrey M. Collins, Kelsey R. Sewell, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
 [White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70125) _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
