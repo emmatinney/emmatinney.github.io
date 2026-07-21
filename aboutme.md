@@ -6,7 +6,7 @@ subtitle:
 
 ## My Research
 
-I am a postdoctoral research fellow with Dr. Simon Driver and Dr. Shanti Pinto at Spaulding Rehabilitation Hospital (Harvard Medical School / Mass General Brigham), where I work in the Discovery Center for Brain Injury and Concussion Recovery. My research focuses on exercise neuroscience and brain health after traumatic brain injury (TBI), with a particular emphasis on cardiovascular health as a modifiable risk factor for outcomes. I use multimodal neuroimaging approaches to understand how lifestyle behaviors shape brain health in TBI populations.
+I am a postdoctoral research fellow supported by the T32NS100663 MGH T32 Postdoctoral Training Program in Recovery and Restoration of CNS Health and Function, working with Dr. Simon Driver and Dr. Shanti Pinto at Spaulding Rehabilitation Hospital (Harvard Medical School / Mass General Brigham) in the Discovery Center for Brain Injury and Concussion Recovery. My research focuses on exercise neuroscience and brain health after traumatic brain injury (TBI), with a particular emphasis on cardiovascular health as a modifiable risk factor for outcomes. Through this T32 fellowship, I use multimodal neuroimaging approaches to understand how lifestyle behaviors shape brain health in TBI populations.
 
 ## My History
 I received my PhD in April 2026 from the Institute for Cognitive and Brain Health at Northeastern University. My doctoral research examined the bidirectional relationship between lifestyle factors, including sleep and exercise, and brain health in TBI and aging. 
@@ -20,4 +20,4 @@ In addition to my focus on research, I take my commitment to leadership and ment
 
 ## Life outside of the lab
 
-Originally born in Chicago, I grew up moving around a lot. I swam competitively all thoughout high school and ended up committing to swim colligiately at University of Delaware. I was a distance swimmer, and after college I fell into distance running. I am now training for my second marathon! Outside of running all around Boston, I enjoy trying new restaurants, going to the beach, traveling, and hiking.
+Originally born in Chicago, I grew up moving around a lot. I swam competitively all thoughout high school and ended up committing to swim colligiately at University of Delaware. I was a distance swimmer, and after college I fell into distance running. I am now training for my forth marathon! Outside of running all around Boston, I enjoy trying new restaurants, going to the beach, traveling, and hiking.
