@@ -3,6 +3,15 @@
 ## 2026
 <!--**Emma M Tinney**, Khoshna Ande\*, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
+Mark Nwakamma, **Emma M Tinney**, Brooke M. Ingemi\*, Charles H. Hillman, Timothy P Morris 
+[Resting-State EEG Spectral Power Alterations Following Traumatic Brain Injury: A Comprehensive Systematic Review and Meta-Analysis of Clinical and Injury-Related Moderators](https://doi.org/10.1080/02699052.2026.2722231) _Brain Injury_
+
+Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
+[Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://sportrxiv.org/index.php/server/preprint/view/684/version/866) _European Journal of Sport Science_
+
+Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
+[Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _Women's Health_
+
 Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena\*, Lexie Hackman, Mark C Nwakamma, Madeleine L Perko, Erin Orchard\*, Hannah Odom\*, Colette Chen\*, Jeremy Hwang\*, Alexandra Stillman, Arthur F. Kramer, Goretti Espanya-Irla
 [Planning, Reminders and Micro-Incentives to Walk After Traumatic Brain Injury: A Pilot Randomized Control Trial](https://www.medrxiv.org/content/10.64898/2026.02.26.26347181v1) _medRxiv_
 
@@ -10,19 +19,12 @@ Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena
 [Aerobic exercise improves executive function after traumatic brain injury via changes to the functional connectivity of the anterior cingulate cortex
 ]() _medRxiv_
 
-Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
-[Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _BioRxiv_
-
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
 [The Feasibility and Efficacy of a Virtual, Symptom-Guided Aerobic Exercise Intervention to Improve Cognition in Mild Traumatic Brain Injury: A Single-Blind Pilot Randomized Control Trial With an Active Comparator Group](https://journals.lww.com/headtraumarehab/fulltext/9900/the_feasibility_and_efficacy_of_a_virtual,.377.aspx) _Journal of Head Trauma Rehabilitation_
 
 **Emma M Tinney**, Mark Nwakamma, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. [The Exercise and Concussion Health Study (TECHS): Pilot and Feasibility Protocol](https://www.sciencedirect.com/science/article/pii/S2451865426000153?via%3Dihub#abs0010) _Contemporary Clinical Trials Communications_
 
 ## 2025
-Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
-[Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://sportrxiv.org/index.php/server/preprint/view/684/version/866) _SportRxiv_
-
-
 **Emma M Tinney**, Aaron E.L. Warren, Meishan Ai, Amanda O'Brien\*, Hannah Odom\*, Brad Sutto, Shivangi Jain, Chaeryon Kang, Haiqing Huang, Lu Wan, Lauren Oberlin, George Grove, John M. Jakicic, Audrey M. Collins, Kelsey R. Sewell, Jeffrey M. Burns, Edward McAuley, Arthur F. Kramer, Kirk I. Erickson, Charles H Hillman. 
 [White Matter Microstructure Mediates the Association between Cardiorespiratory Fitness and Cognitive Performance in Older Adults](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70125) _Alzheimer’s & Dementia: Translational Research & Clinical Interventions_ 
 
