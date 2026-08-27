@@ -7,7 +7,7 @@ Mark Nwakamma, **Emma M Tinney**, Brooke M. Ingemi\*, Charles H. Hillman, Timoth
 [Resting-State EEG Spectral Power Alterations Following Traumatic Brain Injury: A Comprehensive Systematic Review and Meta-Analysis of Clinical and Injury-Related Moderators](https://doi.org/10.1080/02699052.2026.2722231) _Brain Injury_
 
 Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina Anto-Ocrah, Timothy P Morris 
-[Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://sportrxiv.org/index.php/server/preprint/view/684/version/866) _European Journal of Sport Science_
+[Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.70248) _European Journal of Sport Science_
 
 Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
 [Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _Women's Health_
