@@ -3,6 +3,10 @@
 ## 2026
 <!--**Emma M Tinney**, Khoshna Ande\*, Goretti Espana-Irla, Mark Nwakamma, Timothy P Morris. 
 [The Bidirectional Relationship Between Lifestyle Behaviors and Outcomes in TBI: A Narrative Review]() _Brain Injury_ -->
+
+Priya Ravi, Amanda Yad-El Ugboji, Grace Osborne, Maya Jokhadze, Beverly Oleka, Fizza Fatima, Celestin Niyomugabo, Meredith Snook,  **Emma M Tinney**, Goretti Espana-Irla, Kuo-Ting (Tim) Huang, Martina Anto-Ocrah
+[The Real-World Impact of Concussions on the Neuropsychological and Menstrual Health of Women](https://www.medrxiv.org/content/10.64898/2026.08.21.26361020v1)
+
 Mark Nwakamma, **Emma M Tinney**, Brooke M. Ingemi\*, Charles H. Hillman, Timothy P Morris 
 [Resting-State EEG Spectral Power Alterations Following Traumatic Brain Injury: A Comprehensive Systematic Review and Meta-Analysis of Clinical and Injury-Related Moderators](https://doi.org/10.1080/02699052.2026.2722231) _Brain Injury_
 
