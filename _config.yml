@@ -22,9 +22,7 @@ author: Emma Tinney
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Institute for Cognitive and Brain Health: "https://cbh.northeastern.edu/"
-    - Resources: "imaging"
+  Resources: "imaging"
   Publications: "Publications"
   Ongoing Projects: "currentprojects"
   News: "news"
@@ -54,7 +52,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-   email: "etinney@bwh.harvard.edu"
+   email: "etinney@mgb.edu"
    rss: true  # remove this line if you don't want to show an RSS link at the bottom
    github: emmatinney
    twitter: EmmaTinney
