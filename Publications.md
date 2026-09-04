@@ -14,7 +14,7 @@ Goretti Espana-Irla, Madeleine Perko, **Emma M Tinney**, Mark Nwakamma, Martina 
 [Sex and Gender Differences in Physical Activity, Sedentary Behavior, and Sleep During Traumatic Brain Injury Recovery](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.70248) _European Journal of Sport Science_
 
 Goretti Espana-Irla, **Emma M Tinney**, Madeleine L. Perko, Mark Nwakamma, Stephanie Noble, Timothy P Morris 
-[Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://www.biorxiv.org/content/10.64898/2026.01.26.701743v1) _Women's Health_
+[Traumatic Brain Injury Associated with Altered Corpus Callosum Microstructure in Females: Exploring the Roles of Menopause Timing and Hormone Therapy in UK Biobank](https://journals.sagepub.com/doi/10.1177/17455057261485060) _Women's Health_
 
 Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena\*, Lexie Hackman, Mark C Nwakamma, Madeleine L Perko, Erin Orchard\*, Hannah Odom\*, Colette Chen\*, Jeremy Hwang\*, Alexandra Stillman, Arthur F. Kramer, Goretti Espanya-Irla
 [Planning, Reminders and Micro-Incentives to Walk After Traumatic Brain Injury: A Pilot Randomized Control Trial](https://www.medrxiv.org/content/10.64898/2026.02.26.26347181v1) _medRxiv_
