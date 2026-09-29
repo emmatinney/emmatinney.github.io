@@ -7,6 +7,8 @@
 Priya Ravi, Amanda Yad-El Ugboji, Grace Osborne, Maya Jokhadze, Beverly Oleka, Fizza Fatima, Celestin Niyomugabo, Meredith Snook,  **Emma M Tinney**, Goretti Espana-Irla, Kuo-Ting (Tim) Huang, Martina Anto-Ocrah
 [The Real-World Impact of Concussions on the Neuropsychological and Menstrual Health of Women](https://www.medrxiv.org/content/10.64898/2026.08.21.26361020v1)
 
+Mark Nwakamma, **Emma M Tinney**, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. [Feasibility of a modified exertional bike test to threshold virtual aerobic exercise intervention sessions in community-dwelling individuals with mild traumatic brain injury.]() _Restorative Neurology and Neuroscience_ 
+
 Mark Nwakamma, **Emma M Tinney**, Brooke M. Ingemi\*, Charles H. Hillman, Timothy P Morris 
 [Resting-State EEG Spectral Power Alterations Following Traumatic Brain Injury: A Comprehensive Systematic Review and Meta-Analysis of Clinical and Injury-Related Moderators](https://doi.org/10.1080/02699052.2026.2722231) _Brain Injury_
 
@@ -20,8 +22,7 @@ Timothy P Morris, **Emma M Tinney**, Skye Toral\*, Amanda O'Brien\*, Elda Gobena
 [Planning, Reminders and Micro-Incentives to Walk After Traumatic Brain Injury: A Pilot Randomized Control Trial](https://www.medrxiv.org/content/10.64898/2026.02.26.26347181v1) _medRxiv_
 
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
-[Aerobic exercise improves executive function after traumatic brain injury via changes to the functional connectivity of the anterior cingulate cortex
-]() _medRxiv_
+[Aerobic exercise improves executive function after traumatic brain injury via changes to the functional connectivity of the anterior cingulate cortex](https://www.medrxiv.org/content/10.64898/2026.02.27.26347275v1) _medRxiv_
 
 **Emma M Tinney**, Mark C Nwakamma, Goretti Espana-Irla, Lauren Kong\*, Colette Chen\*, Jeremy Hwang\*, Amanda O'Brien\*, Madeleine Perko\*, Ryan Luke Sodemann\*, Jacqueline Caefer, Julia Manczurowsky, Charles H Hillman, Alexandra Stillman, Timothy P Morris
 [The Feasibility and Efficacy of a Virtual, Symptom-Guided Aerobic Exercise Intervention to Improve Cognition in Mild Traumatic Brain Injury: A Single-Blind Pilot Randomized Control Trial With an Active Comparator Group](https://journals.lww.com/headtraumarehab/fulltext/9900/the_feasibility_and_efficacy_of_a_virtual,.377.aspx) _Journal of Head Trauma Rehabilitation_
