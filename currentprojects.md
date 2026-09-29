@@ -8,6 +8,6 @@ July 2026-July 2028
 ### Cardiovascular Health and Patient-Reported Outcomes in Chronic Traumatic Brain Injury: Defining Clinically Meaningful Thresholds to Inform Prevention  
 HAL A.R. Tarlov & J.E. Ware Jr. Post-Doctoral Award in Patient Reported Outcomes  
 PI: Tinney  
-
+September 2026-August 2027  
 
 
