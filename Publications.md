@@ -7,7 +7,7 @@
 Priya Ravi, Amanda Yad-El Ugboji, Grace Osborne, Maya Jokhadze, Beverly Oleka, Fizza Fatima, Celestin Niyomugabo, Meredith Snook,  **Emma M Tinney**, Goretti Espana-Irla, Kuo-Ting (Tim) Huang, Martina Anto-Ocrah
 [The Real-World Impact of Concussions on the Neuropsychological and Menstrual Health of Women](https://www.medrxiv.org/content/10.64898/2026.08.21.26361020v1)
 
-Mark Nwakamma, **Emma M Tinney**, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. [Feasibility of a modified exertional bike test to threshold virtual aerobic exercise intervention sessions in community-dwelling individuals with mild traumatic brain injury.]() _Restorative Neurology and Neuroscience_ 
+Mark Nwakamma, **Emma M Tinney**, Goretti Espana-Irla, Madeleine Perko, Ryan Luke Sodermann, Jacqueline Caefer, Julia Manczurowsky, Charles H. Hillman, Alexandra M Stillman, Timothy P. Morris. [Feasibility of a modified exertional bike test to threshold virtual aerobic exercise intervention sessions in community-dwelling individuals with mild traumatic brain injury.](https://journals.sagepub.com/doi/10.1177/09226028261496160) _Restorative Neurology and Neuroscience_ 
 
 Mark Nwakamma, **Emma M Tinney**, Brooke M. Ingemi\*, Charles H. Hillman, Timothy P Morris 
 [Resting-State EEG Spectral Power Alterations Following Traumatic Brain Injury: A Comprehensive Systematic Review and Meta-Analysis of Clinical and Injury-Related Moderators](https://doi.org/10.1080/02699052.2026.2722231) _Brain Injury_
